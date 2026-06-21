@@ -1,5 +1,5 @@
 - Hi, I’m @cjslayer
-- I’m interested in; AI, Game Theory, and Optimization
+- I’m interested in; AI, Game Theory, and Optimization Theory
 - I'm interested in collaborating if any of your projects fall into those three
 - How to reach me: christiandone@isu.edu
 
